@@ -34,4 +34,6 @@ public class Pattarn6 {
 			   System.out.print("* ");
 		   }
 		}
+
+		System.out.println("multi branches in git");
 }
