@@ -36,4 +36,6 @@ public class Pattarn6 {
 		}
 
 		System.out.println("multi branches in git");
+		System.out.println("welcome to gitHub");
+
 }
